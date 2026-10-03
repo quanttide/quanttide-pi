@@ -14,6 +14,7 @@
 | 路径 | 说明 |
 |------|------|
 | `data/context` | Pi 智能体语境 (git submodule → quanttide-context-of-pi-agent) |
+| `data/gallery` | Pi 智能体案例集 (git submodule → quanttide-gallery-of-pi-agent) |
 
 其余随实现演进补充。
 
