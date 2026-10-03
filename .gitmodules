@@ -1,3 +1,6 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-pi-agent.git
+[submodule "packages/quanttide-pi-toolkit"]
+	path = packages/quanttide-pi-toolkit
+	url = https://github.com/quanttide/quanttide-pi-toolkit.git
