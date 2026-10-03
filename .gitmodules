@@ -4,6 +4,9 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-pi-agent.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-pi-agent.git
 [submodule "packages/quanttide-pi-toolkit"]
 	path = packages/quanttide-pi-toolkit
 	url = https://github.com/quanttide/quanttide-pi-toolkit.git
