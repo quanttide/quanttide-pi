@@ -1,8 +1,8 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-pi-agent.git
-[submodule "data/gallery"]
-	path = data/gallery
+[submodule "docs/gallery"]
+	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-pi-agent.git
 [submodule "packages/quanttide-pi-toolkit"]
 	path = packages/quanttide-pi-toolkit
