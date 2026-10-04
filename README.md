@@ -14,6 +14,7 @@
 | 路径 | 说明 |
 |------|------|
 | `data/context` | Pi 智能体语境 (git submodule → quanttide-context-of-pi-agent) |
+| `data/profile` | Pi 智能体档案 (git submodule → quanttide-profile-of-pi-agent) |
 | `docs/handbook` | Pi 智能体手册 (git submodule → quanttide-handbook-of-pi-agent) |
 | `docs/gallery` | Pi 智能体案例集 (git submodule → quanttide-gallery-of-pi-agent) |
 
