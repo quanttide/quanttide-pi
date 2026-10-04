@@ -5,4 +5,4 @@
 - 初始化适配仓库：注册语境（`data/context` → `quanttide-context-of-pi-agent`）。
 - 注册案例集（`docs/gallery` → `quanttide-gallery-of-pi-agent`）。
 - 注册手册（`docs/handbook` → `quanttide-handbook-of-pi-agent`）。
-- 语境新增 `profile/quanttide-founder`：该项目的 Pi 记忆草稿（脱敏后 11 条）。
+- 语境新增 `profile/quanttide-founder`：该项目的 Pi 记忆草稿（13 条，按子模块分文件夹）。
